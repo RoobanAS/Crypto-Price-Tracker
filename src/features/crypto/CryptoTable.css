@@ -1,0 +1,61 @@
+.table-container {
+    padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+  }
+  
+  .table-container h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+    box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  thead {
+    background-color: #f1f1f1;
+    text-align: left;
+  }
+  
+  th, td {
+    padding: 14px 16px;
+    font-size: 14px;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #fafafa;
+  }
+  
+  tr:hover {
+    background-color: #f0f0f0;
+  }
+  
+  .green {
+    color: #16c784;
+    font-weight: bold;
+  }
+  
+  .red {
+    color: #ea3943;
+    font-weight: bold;
+  }
+  
+  .coin-name {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+  .symbol {
+    font-size: 12px;
+    color: #777;
+  }
+  
