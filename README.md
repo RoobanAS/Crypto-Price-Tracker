@@ -93,6 +93,4 @@ Components dispatch fetchCryptoData() every 10s
 MIT License — feel free to use, share, or modify!
 
 👨‍💻 Author
-Rooban S
-📧 rooban@example.com
-🔗 LinkedIn | GitHub """
+Rooban A
